@@ -1,0 +1,16 @@
+package SnakeOL;
+
+message speed
+{
+    required uint32 step = 1;
+}
+message control
+{
+	required uint32 seqNum = 1;
+	required uint32 keyValue = 2;
+}
+message frame
+{
+	required uint32 time = 1;
+	repeated uint32 position = 2 [packed=true];
+}
