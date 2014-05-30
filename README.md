@@ -18,7 +18,7 @@ Delete:<br />
     make clean<br />
 Run:<br />
 1. First run snake_calculate<br />
-    ./snake_calculate <PORT_NUMBER><br />
+    ./snake_calculate \<PORT_NUMBER\> <br />
 <PORT_NUMBER>: should be in the range of [10000,49999]<br />
 2. Then run snake_display<br />
     ./snake_display <IP_Address> <PORT_NUMBER><br />
