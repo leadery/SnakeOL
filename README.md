@@ -19,11 +19,11 @@ To compile the file, use g++ 4.8 or later version.<br />
 ### Run:<br />
     1. First run snake_calculate
         ./snake_calculate \<PORT_NUMBER\>
-    \<PORT_NUMBER\>: should be in the range of [10000,49999]
+    <PORT_NUMBER>: should be in the range of [10000,49999]
     2. Then run snake_display<br />
         ./snake_display \<IP_Address\> <PORT_NUMBER>
-    \<IP_address\>: 127.0.0.1 OR ::1
-    \<PORT_NUMBER\>: must be same as the PORT_NUMBER above.
+    <IP_address>: 127.0.0.1 OR ::1
+    <PORT_NUMBER>: must be same as the PORT_NUMBER above.
 ### Control:<br />
     keyboard: left, right, up, down to change the direction of the snake.
     
