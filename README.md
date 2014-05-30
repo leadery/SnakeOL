@@ -18,13 +18,13 @@ Delete:<br />
     make clean<br />
 Run:<br />
 1. First run snake_calculate<br />
-    ./snake_calculate \<PORT_NUMBER\> <br />
-<PORT_NUMBER>: should be in the range of [10000,49999]<br />
+        ./snake_calculate \<PORT_NUMBER\> <br />
+\<PORT_NUMBER\>: should be in the range of [10000,49999]<br />
 2. Then run snake_display<br />
-    ./snake_display <IP_Address> <PORT_NUMBER><br />
-<IP_address>: 127.0.0.1 OR ::1<br />
-<PORT_NUMBER>: must be same as the PORT_NUMBER above.<br />
+        ./snake_display \<IP_Address\> <PORT_NUMBER><br />
+\<IP_address\>: 127.0.0.1 OR ::1<br />
+\<PORT_NUMBER\>: must be same as the PORT_NUMBER above.<br />
 Control:<br />
-    keyboard: left, right, up, down to change the direction of the snake.<br />
+        keyboard: left, right, up, down to change the direction of the snake.<br />
 <br />
 Any advice would be appreciated! ^_^<br />
