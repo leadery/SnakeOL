@@ -12,9 +12,9 @@ And Google protocol buffer:<br />
 [https://developers.google.com/protocol-buffers/docs/cpptutorial](https://developers.google.com/protocol-buffers/docs/cpptutorial)<br />
 To compile the file, use g++ 4.8 or later version.<br />
 
-Install:<br />
+### Install:<br />
     make all
-Delete:<br />
+### Delete:<br />
     make clean
 Run:<br />
 1. First run snake_calculate<br />
