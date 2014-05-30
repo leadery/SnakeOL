@@ -13,9 +13,9 @@ And Google protocol buffer:<br />
 To compile the file, use g++ 4.8 or later version.<br />
 
 Install:<br />
-    make all<br />
+    make all
 Delete:<br />
-    make clean<br />
+    make clean
 Run:<br />
 1. First run snake_calculate<br />
         ./snake_calculate \<PORT_NUMBER\> <br />
